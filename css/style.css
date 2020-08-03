@@ -38,4 +38,8 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+header {
+  background: #F2EBE9;
+  font-size: 100%;
+  font-family: 'Sans-Serif', serif;
+}
